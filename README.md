@@ -6,7 +6,7 @@ create to show my ability in programmation and share my modular dungeon generato
 this fonction create a dungeon with room connected by door objet, the exit is a boss room and you can add bonus room also
 
 algo :
-->create config
+->create config<br>
 ->create main path
 ->create boss room
 ->create the other room upon the max room is reached also create extra connections
