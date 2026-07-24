@@ -1,4 +1,5 @@
 Modular Dungeon Generator
+Reusable procedural dungeon generator written in GameMaker Language (GML).
 
 create to show my ability in programmation and share my modular dungeon generator 
 
